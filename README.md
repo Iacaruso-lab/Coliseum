@@ -75,7 +75,7 @@ Each of the [speakers](https://www.digikey.co.uk/en/products/detail/visaton-gmbh
 
 The assembly of each slice PCB with its structure is done by using five M3 x 16 mm screws and five M3 nuts:
 
-![Assembly](Images/Figure%2015.jpg)
+![Assembly](Images/Figure%2015.gif)
 
 Once the slice is assembled, the last step is to bent the pins of the [8x2 female header](https://uk.farnell.com/samtec/esq-108-14-g-d/connector-rcpt-16pos-2row-2-54mm/dp/2779427) approximately 30 degrees using a ruler and solder the header into the back side of the PCB.
 

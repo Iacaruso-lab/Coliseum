@@ -17,7 +17,7 @@ The audio signal is continuously generated from the PC and sent to all speakers 
 
 First you need to create a customer account with [JLCPCB](https://jlcpcb.com/).
 
-Then drag the gerber file from the [slice manufacturing files folder](https://github.com/FrancisCrickInstitute/Coliseum/tree/main/Hardware/Manufacturing%20files/Slice%20PCB) into the instant quote file upload window.
+Then drag the gerber file from the [slice manufacturing files folder](main/Hardware/Manufacturing%20files/Slice%20PCB) into the instant quote file upload window.
 
 Then select ***PCB quantity 15, PCB thickness 0.8 and color black.***
 

@@ -2,7 +2,7 @@
 
 Hemispherical display to deliver simultaneous auditory and visual stimuli to head-fixed rodents. The device is composed by 15 slices.
 
-<img width="853" alt="Figure 1" src="https://github.com/user-attachments/assets/5e13eda8-5b27-4b1d-b7ce-738c7788625b" />
+<img width="853" alt="Figure 1" src="Images/Figure%201.png" />
 
 The device is designed to receive messages sent from the computer serial port, each message will contain digital information for each slide, basically which LED and which speaker goes into "ON state".
 

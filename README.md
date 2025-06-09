@@ -57,7 +57,7 @@ The same steps have to be repeated for the [control board](Hardware/Manufacturin
 
 ### Slice assembly
 
-1- Laser cut the 15 slices acrylic structure. The ai. file "4 Slices Laser cutting file" contained in [the laser cut files folder](https://github.com/FrancisCrickInstitute/Coliseum/tree/main/Hardware/Manufacturing%20files/Laser%20cut) has the 5 mm acrylic PMMA components needed for the main structure. Our file has been generated for a 600 mm x 300 mm laser cutter bed.
+1- Laser cut the 15 slices acrylic structure. The ai. file "4 Slices Laser cutting file" contained in [the laser cut files folder](Hardware/Manufacturing%20files/Laser%20cut) has the 5 mm acrylic PMMA components needed for the main structure. Our file has been generated for a 600 mm x 300 mm laser cutter bed.
 
 ![4 Slices (Laser cutting file)](Images/Figure%2011.png)
 

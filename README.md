@@ -110,3 +110,9 @@ Then the polarity can be tested bt probing between the LED pin and GND pin.
 ![LED assembly 3](Images/Figure%2021.png)
 
 
+### Uploading the firmware
+
+- Connect the board with the "georgeous STM32 programmer" (ST-LINK USB) cable.
+- Connect the "georgeous STM32 programmer" to your computer using a mini USB cable.
+- It will appear as a removable flash drive (e.g., NODE_Fxxx or Nucelo).
+- Simply drag and drop or copy/paste your .bin file onto the drive. The status LED will blink and rapidly flash your board.

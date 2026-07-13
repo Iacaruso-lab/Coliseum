@@ -96,7 +96,7 @@ If all components are in stock on [JLCPCB](https://jlcpcb.com/) the boards shoul
 ### Programmer board assembly
 
 The "georgeous STM32 programmer" board is composed by a custom PCB that is soldered on top of the [STM32 Nucleo-64 MCU Development Board NUCLEO-F410RB](https://uk.rs-online.com/web/p/microcontroller-development-tools/9173766?cm_mmc=UK-PPC-DS3A-_-google-_-3_UK_EN_Raspberry+Pi+%26+Arduino+%26+ROCK+%26+STEM+Education+%26+Development+Tools_Microcontroller+Development+Tools-_-STMicroelectronics+-+9173766+-+NUCLEO-_-stmicroelectronics+nucleo&matchtype=p&aud-2406926037817:kwd-327069370714&cq_src=google_ads&cq_cmp=12690202697&cq_term=stmicroelectronics%20nucleo&cq_plac=&cq_net=g&cq_plt=gp&gclsrc=aw.ds&gad_source=1&gad_campaignid=12690202697&gbraid=0AAAAADkeWNOcTAzA5nZgKzR7_I_gj5hWe&gclid=CjwKCAjwmdLSBhANEiwAkREMN9kaxucJEJcilK4NKpdcp2L4rGTd5La0k6RWjJVKPHo56LOtS3Y6xBoCotoQAvD_BwE) Serial to USB converter part that can snap and be separated from the rest of the development board.
-- Vcc, SWDIO, GND, SWCLK, NRST, RX and TX pins are soldered with a [Molex EdgeLock connector](https://www.mouser.co.uk/en/ProductDetail/Molex/200890-0106?qs=W0yvOO0ixfHAR9KO0O7TGQ%3D%3D) using a ribbon cable.
+Vcc, SWDIO, GND, SWCLK, NRST, RX and TX pins are soldered with a [Molex EdgeLock connector](https://www.mouser.co.uk/en/ProductDetail/Molex/200890-0106?qs=W0yvOO0ixfHAR9KO0O7TGQ%3D%3D) using a ribbon cable.
 
 ### If there is no stock of LEDs in JLCBPCB and you need to solder them my hand
 

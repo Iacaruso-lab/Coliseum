@@ -114,6 +114,8 @@ Then the polarity can be tested bt probing between the LED pin and GND pin.
 
 - Connect the board with the "georgeous STM32 programmer" (ST-LINK USB) cable.
 - Connect the "georgeous STM32 programmer" to your computer using a mini USB cable.
+<img width="2040" height="804" alt="20260713_102638" src="https://github.com/user-attachments/assets/70d869e8-91c9-4ff7-a98f-f1ba089ec9b2" />
+
 - It will appear as a removable flash drive (e.g., NODE_Fxxx or Nucelo).
 - Simply drag and drop  ["Colliseum_adjustablelight.NUCLEO_F411RE.bin"](https://github.com/Iacaruso-lab/Coliseum/blob/main/FirmWare/Colliseum_adjustablelight.NUCLEO_F411RE.bin) file onto the drive.
 - The status LED will blink on your "georgeous STM32 programmer" board and rapidly flash.
